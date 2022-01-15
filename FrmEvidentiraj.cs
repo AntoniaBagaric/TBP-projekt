@@ -78,7 +78,7 @@ namespace Projekt___TBP
 
             veza.Close();
 
-            MessageBox.Show("Uspješno ste evidentirali GO!", "Great success");
+            MessageBox.Show("Uspješno ste evidentirali godišnji odmor! Lijepo se odmorite :)", "Great success");
 
             this.Close();
         }
